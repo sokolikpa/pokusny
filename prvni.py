@@ -1,1 +1,1 @@
-print("prvni pokus")
+print("prvni pokus a jeho změna")
